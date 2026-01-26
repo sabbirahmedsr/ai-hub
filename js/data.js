@@ -218,6 +218,16 @@ export const TOOLS = [
         tags: ["agents", "se-dev", "autonomous"],
         favourite: false,
         pricing: "paid"
+    },
+    {
+        id: 24,
+        name: "OpenCode AI",
+        categories: ["AI Agents", "Developer Tools"],
+        desc: "The open source AI coding agent. A terminal-first assistant with multi-provider support (OpenAI, Gemini, etc.) and autonomous workflows.",
+        url: "https://opencode.ai",
+        tags: ["open-source", "terminal-ui", "coding-agent"],
+        favourite: false,
+        pricing: "free"
     }
 ];
 
