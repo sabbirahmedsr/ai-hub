@@ -52,7 +52,7 @@ export const TOOLS = [
     {
         id: 21,
         name: "OpenHands",
-        categories: ["AI Agents", "Developer Tools"],
+        categories: ["AI Agents"],
         desc: "The premier open-source autonomous agent platform (formerly OpenDevin) for full-stack engineering.",
         url: "https://github.com/All-Hands-AI/OpenHands",
         tags: ["open-source", "agents", "python"],
@@ -82,7 +82,7 @@ export const TOOLS = [
     {
         id: 17,
         name: "HunyuanWorld Play",
-        categories: ["3D Gen", "Video/Audio"],
+        categories: ["3D Gen"],
         desc: "Tencent's framework for real-time interactive 3D world modeling with camera trajectory control.",
         url: "https://github.com/Tencent-Hunyuan/HY-WorldPlay",
         tags: ["open-source", "3d-worlds", "interactive"],
@@ -92,7 +92,7 @@ export const TOOLS = [
     {
         id: 22,
         name: "Tencent HY 3D Global",
-        categories: ["3D Gen", "Image Gen"],
+        categories: ["3D Gen"],
         desc: "Professional 3D engine for high-fidelity assets. Supports Text/Image/Sketch-to-3D with smart topology.",
         url: "https://3d.hunyuanglobal.com",
         tags: ["3d-gen", "tencent", "spatial"],
@@ -132,7 +132,7 @@ export const TOOLS = [
     {
         id: 3,
         name: "Claude",
-        categories: ["LLM", "Developer Tools"],
+        categories: ["LLM"],
         desc: "Anthropic's safety-focused Claude 4. Now features 'Claude Code' for instant terminal-based development.",
         url: "https://claude.ai",
         tags: ["creative", "coding", "safe"],
@@ -192,7 +192,7 @@ export const TOOLS = [
     {
         id: 8,
         name: "Vercel V0",
-        categories: ["Developer Tools", "AI Agents"],
+        categories: ["Research"],
         desc: "Generative UI system that builds React/Tailwind components. Now acts as an agent for full-page apps.",
         url: "https://v0.dev",
         tags: ["frontend", "react"],
@@ -206,16 +206,6 @@ export const TOOLS = [
         desc: "AI-powered search engine. 'Perplexity Pages' now automates full wiki and report generation.",
         url: "https://perplexity.ai",
         tags: ["citations", "search"],
-        favourite: false,
-        pricing: "freemium"
-    },
-    {
-        id: 10,
-        name: "Phind",
-        categories: ["Developer Tools", "Research"],
-        desc: "AI search for developers. Features local codebase indexing and real-time documentation mapping.",
-        url: "https://phind.com",
-        tags: ["coding", "search"],
         favourite: false,
         pricing: "freemium"
     },
