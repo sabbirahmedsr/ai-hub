@@ -228,6 +228,16 @@ export const TOOLS = [
         tags: ["open-source", "terminal-ui", "coding-agent"],
         favourite: false,
         pricing: "free"
+    },
+    {
+        id: 25,
+        name: "Tripo AI",
+        categories: ["3D Gen"],
+        desc: "The Best AI 3D Workspace. From texts, images, or sketches to production-ready 3D Assets in seconds — all in one seamless workflow.",
+        url: "https://studio.tripo3d.ai/",
+        tags: ["3d-gen", "text-to-3d", "image-to-3d", "assets"],
+        favourite: false,
+        pricing: "freemium"
     }
 ];
 
