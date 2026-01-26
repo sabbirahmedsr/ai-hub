@@ -180,6 +180,16 @@ export const TOOLS = [
         pricing: "freemium"
     },
     {
+        id: 23,
+        name: "TTSFree",
+        categories: ["Video/Audio"],
+        desc: "Convert text to speech with natural sounding voices. Supports multiple languages and file exports.",
+        url: "https://ttsfree.com",
+        tags: ["tts", "voiceover", "audio"],
+        favourite: false,
+        pricing: "free"
+    },
+    {
         id: 8,
         name: "Vercel V0",
         categories: ["Developer Tools", "AI Agents"],
