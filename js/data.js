@@ -238,6 +238,16 @@ export const TOOLS = [
         tags: ["3d-gen", "text-to-3d", "image-to-3d", "assets"],
         favourite: false,
         pricing: "freemium"
+    },
+    {
+        id: 26,
+        name: "Hunyuan Motion",
+        categories: ["3D Gen"],
+        desc: "Tencent's generative motion platform. Create high-fidelity video and character animations from text or image prompts.",
+        url: "https://hunyuan.tencent.com/motion?tabIndex=0",
+        tags: ["motion-gen", "animation", "tencent"],
+        favourite: false,
+        pricing: "freemium"
     }
 ];
 
