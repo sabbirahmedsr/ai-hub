@@ -248,6 +248,46 @@ export const TOOLS = [
         tags: ["motion-gen", "animation", "tencent"],
         favourite: false,
         pricing: "freemium"
+    },
+    {
+        id: 27, 
+        name: "Google Stitch",
+        categories: ["Developer Tools"],
+        desc: "Google's 'Prompt-to-UI' engine. Generates functional mobile/web interfaces from text or sketches, with direct export to Figma and production-ready React/Tailwind code.",
+        url: "https://stitch.withgoogle.com",
+        tags: ["google-labs", "ui-gen", "figma-export"],
+        favourite: true,
+        pricing: "free"
+    },
+    {
+        id: 28,
+        name: "CTO.new",
+        categories: ["AI Agents", "Developer Tools"],
+        desc: "Replit’s autonomous 'Chief Technology Officer' agent. Orchestrates full-stack deployment, database migrations, and cloud infra scaling via natural language.",
+        url: "https://cto.new/",
+        tags: ["replit", "devops", "autonomous-infra"],
+        favourite: false,
+        pricing: "freemium"
+    },
+    {
+        id: 29,
+        name: "Accomplish",
+        categories: ["AI Agents"],
+        desc: "Open-source AI desktop agent (formerly Openwork). Automates file management, browser tasks, and document drafting locally. Supports BYO-key or local LLMs via Ollama.",
+        url: "https://www.accomplish.ai",
+        tags: ["open-source", "local-first", "desktop-automation"],
+        favourite: false,
+        pricing: "free"
+    },
+    {
+        id: 30,
+        name: "MiniMax Agent",
+        categories: ["AI Agents", "LLM"],
+        desc: "A powerhouse agentic platform using the MiniMax-M2/M1 models. Features 'Lightning' and 'Pro' modes with ultra-fast inference and 1M+ context. Excels at multi-agent collaboration (MCP) and full-stack project execution.",
+        url: "https://agent.minimax.io/",
+        tags: ["hybrid-attention", "mcp-protocol", "low-latency"],
+        favourite: false,
+        pricing: "freemium"
     }
 ];
 
