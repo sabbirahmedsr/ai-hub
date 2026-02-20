@@ -290,7 +290,7 @@ export const TOOLS = [
         pricing: "freemium"
     },
     {
-        id: 15,
+        id: 31,
         name: "Arena",
         categories: ["Research", "LLM"],
         desc: "The definitive crowdsourced 'Colosseum' for AI evaluation (formerly LMArena). Now features 'Video Arena' and 'Max', an intelligent orchestrator that routes prompts to the best-performing models.",
