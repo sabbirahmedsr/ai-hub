@@ -288,6 +288,16 @@ export const TOOLS = [
         tags: ["hybrid-attention", "mcp-protocol", "low-latency"],
         favourite: false,
         pricing: "freemium"
+    },
+    {
+        id: 15,
+        name: "Arena",
+        categories: ["Research", "LLM"],
+        desc: "The definitive crowdsourced 'Colosseum' for AI evaluation (formerly LMArena). Now features 'Video Arena' and 'Max', an intelligent orchestrator that routes prompts to the best-performing models.",
+        url: "https://arena.ai/",
+        tags: ["benchmark", "elo-rating", "model-discovery"],
+        favourite: false,
+        pricing: "free"
     }
 ];
 
